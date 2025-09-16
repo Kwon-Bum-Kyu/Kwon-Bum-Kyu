@@ -8,8 +8,7 @@
 
 <p>
   <h3>Kwon-Bum-Kyu</h3>
-  <b>Mobile App Developer</b> leveraging React native<br/>
-  studying ios And Android <br/>
+  <b>Front End Developer</b>
 </p>
 
 
