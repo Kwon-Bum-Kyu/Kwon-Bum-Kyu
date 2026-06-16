@@ -11,6 +11,6 @@
   <b>Front End Developer</b>
 </p>
 
-![Blog Card](https://blog-readme-stats-one.vercel.app/api/blog/card?url=https://v2.velog.io/rss/bumkyu98)
+[![Blog Card](https://blog-readme-stats-one.vercel.app/api/blog/card?url=https://v2.velog.io/rss/bumkyu98)](https://velog.io/@bumkyu98/developer-ai-burnout)
 
                   
